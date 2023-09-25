@@ -219,3 +219,8 @@ footer a {
     display: none;
   }
 }
+@media screen and (min-width: 1200px) {
+  .container {
+    max-width: 85%;
+  }
+}
